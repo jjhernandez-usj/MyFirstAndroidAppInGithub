@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // This is a comment to show how it is pushed to the cloud
+        // Chat is working. Hooray!!!
     }
 }
